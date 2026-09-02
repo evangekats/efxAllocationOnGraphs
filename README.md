@@ -130,5 +130,5 @@ print(report\_text)
 
 ## Θεωρητικό υπόβαθρο / Πτυχιακή
 
-Για την πλήρη θεωρητική τεκμηρίωση (ορισμοί, αποδείξεις, ανάλυση αλγορίθμων, πειραματικά αποτελέσματα), δείτε τη διπλωματική εργασία στο [`thesis/efxAllocationOnGraphThesis.pdf`](thesis/efxAllocationOnGraphThesis.pdf).
+Για την πλήρη θεωρητική τεκμηρίωση (ορισμοί, αποδείξεις, ανάλυση αλγορίθμων, πειραματικά αποτελέσματα), δείτε τη πτυχιακή εργασία στο [`thesis/efxAllocationOnGraphThesis.pdf`](thesis/efxAllocationOnGraphThesis.pdf).
 
